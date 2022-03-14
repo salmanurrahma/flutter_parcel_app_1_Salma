@@ -1,4 +1,4 @@
-# flutter_parcel_app_1_Salma
+# flutter_parcel_app
 
 A new Flutter project.
 
